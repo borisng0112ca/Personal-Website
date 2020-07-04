@@ -26,6 +26,7 @@ h1{
 
 h2{
     text-align: center;
+
 }
 
 h3{
@@ -94,3 +95,16 @@ h3{
     text-align: center;
 }
 
+a{
+    color : #f8f8ff;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a:hover{
+    color : #dbcf23;
+}
+
+#getintouch{
+    color : #dbcf23;
+}
