@@ -1,2 +1,2 @@
 # Personal-Website
-Personal portfolio website written in HTML, CSS and Javascript.
+Personal portfolio website written in HTML, CSS.
